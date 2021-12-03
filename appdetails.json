@@ -7,9 +7,11 @@
     "size":"https://git.io/JeY69"
   }],
   "blocked":[
-    {"id":0, "app":"com.android.client"}
+    {"id":0, "app":"com.android.client"},
+    {"id":1, "app":"com.android.client1"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"BJ","country":"cn","image":"germany","ip":"192.168.248.123","active":"true","signal":"a"}
+    {"id":0, "file":0, "city":"BJ","country":"cn","image":"germany","ip":"192.168.248.123","active":"true","signal":"a"},
+    {"id":1, "file":0, "city":"BJ","country":"cn","image":"germany","ip":"192.168.248.123","active":"true","signal":"a"}
   ]
 }
